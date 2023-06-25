@@ -1,0 +1,77 @@
+* {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar {
+    background-color: black;
+    height: 60px;
+    /*margin: 20px 00px 00px 00px;*/
+}
+
+.logo {
+    margin-left: 00px;
+    margin: 20px 00px 00px 00px;
+    color: yellow;
+}
+
+.account {
+    margin-left: 270px;
+    margin: 20px 00px 00px 270px;
+}
+
+.my-cart {
+    margin-left: 270px;
+    margin: 20px 00px 00px 270px;
+}
+
+.search-box {
+    margin-left: 270px;
+    margin: 20px 00px 00px 270px;
+    outline-color: blue;
+    border: none;
+    color: black;
+}
+
+.search-button {
+    background-color: #ffa200;
+    border: none;
+    outline-color: blue;
+}
+
+.content {
+    height: 540px;
+}
+
+.main1 {
+    color: black;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 10px 70px 0px 0px;
+    display: inline-block;
+}
+
+.main2 {
+    color: black;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 10px 70px 0px 0px;
+    display: inline-block;
+}
+
+.main3 {
+    color: black;
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    margin: 10px 70px 0px 0px;
+    display: inline-block;
+}
+
+.footer {
+    background-color: black;
+    text-align: center;
+    padding:10px 0px 10px 0px;
+}
